@@ -26,7 +26,10 @@ SoCs are widely used in smartphones, embedded systems, and high-performance proc
    - Connects CPU, memory, and peripherals using a **bus or network-on-chip (NoC)**.  
 
 
+
 <img src = "./images/simple_soc.png">
+
+
 ---
 
 ## 🎯 Why BabySoC?  
