@@ -1,4 +1,3 @@
-
 # BabySoC Fundamentals & Functional Modelling – Week 2  
 
 Welcome to my Week 2 work on **VSDBabySoC**, where I explore the fundamentals of **System-on-Chip (SoC)** design and perform **functional modelling** of the **BabySoC** using simulation tools. This repository documents both my **conceptual understanding** and **hands-on experiments** with simulation waveforms.  
