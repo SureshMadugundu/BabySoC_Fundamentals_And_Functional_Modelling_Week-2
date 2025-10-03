@@ -25,7 +25,7 @@ This repository is intended for students and beginners who want to learn about:
 
 ## 📅 Learning Structure  
 
-### 🔹 Part 1 – BabySoC Fundamentals[./BabySoC_Fundamentals]
+### 🔹 [Part 1 – BabySoC Fundamentals](./BabySoC_Fundamentals)
 - Introduction to **System-on-Chip (SoC)** design  
 - Components of an SoC:  
   - CPU (Processing Core)  
@@ -40,7 +40,7 @@ A 1–2 page write-up summarizing the above concepts
 
 ---
 
-### 🔹 Part 2 – Labs (Hands-on Functional Modelling)[./Labs]
+### 🔹 [Part 2 – Labs (Hands-on Functional Modelling)](./Labs)
 - Clone and set up the **BabySoC repository**  
 - Compile BabySoC Verilog modules using **Icarus Verilog**  
 - Run simulations and generate `.vcd` files  
