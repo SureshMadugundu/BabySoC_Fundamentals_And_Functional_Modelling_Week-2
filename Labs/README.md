@@ -140,6 +140,7 @@ Drag the following into viewer:
 - `OUT` → DAC output
 
   <img src = "./images/babysoc_wave_form.png">
+  ![BabySoC Waveform](./images/babysoc_wave_form.png)
 
 🔧 For analog view:
 Right-click OUT → Data Format → Analog → Step → On
