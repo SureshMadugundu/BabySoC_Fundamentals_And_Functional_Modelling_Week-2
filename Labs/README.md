@@ -139,12 +139,13 @@ Drag the following into viewer:
 - `RV_TO_DAC[9:0]` → 10-bit bus feeding DAC
 - `OUT` → DAC output
 
-  <img src = "./images/babysoc_wave_form.png">
-[image](../SOC_2.png)
+
 
 🔧 For analog view:
 Right-click OUT → Data Format → Analog → Step → On
 
+  <img src = "../images/babysoc_wave_form.png">
+  
 ## Troubleshooting
 - Redefinition Errors → Ensure each module is included only once
 - Path Errors → Use absolute paths if relative ones fail
