@@ -120,7 +120,7 @@ vsdbabysoc.v
 3. Run simulation:
 ```bash
 cd output/pre_synth_sim
-./sim.out
+./pre_synth_sim.out
 ```
   👉 Produces pre_synth_sim.vcd file
 
